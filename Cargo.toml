@@ -1,0 +1,12 @@
+[package]
+name = "display_ktree"
+version = "0.1.0"
+edition = "2021"
+description = "Program that displays a KTree in the terminal"
+keywords = ["Ktree", "Tree", "Display KTree"]
+authors = ["Lurgrid <lurgrid@sagbot.com>"]
+repository = "https://github.com/Lurgrid/display_ktree"
+license = "GPL-3.0"
+
+
+[dependencies]
